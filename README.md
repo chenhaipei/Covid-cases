@@ -5,3 +5,15 @@ Then I created Covid-cases: a React web page displaying the latest Covid-19 stat
 ![image](/searchPage.jpg)
 The user can search for a region and see more detailed breakdowns including intuitive Chart.js bar graphs
 ![image](/detailPage.jpg)
+
+## How to run
+In a terminal:
+```bash
+# Initial setup
+npm install
+# Start the server
+npm start
+```
+
+Then it will be on your **localhost:3000**
+
